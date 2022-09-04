@@ -1,4 +1,4 @@
----
+--
 title: Moderation Guide
 description: A guide on what deserves moderation actions and how to carry them out.
 authors: [CarbonGhost, Terracom, MadPancho]

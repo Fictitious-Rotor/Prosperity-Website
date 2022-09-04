@@ -5,7 +5,7 @@ description: Full list of server mods, datapacks, and configurations.
 category: "info"
 ---
 
-This is a comprehensive list of all server mods, datpacks, and relevant configurations, along with an explanation of each feature and why it was added.
+This is a comprehensive list of all server mods, datapacks, and relevant configurations, along with an explanation of each feature and why it was added.
 
 # Client mods
 
@@ -41,7 +41,7 @@ This mod reintroduces the singleplayer TPS graph for dedicated servers, not sure
 
 ## Custom armor stands
 
-Name a book "Statues" to get an interface where you can greatly customize armor stands' attributes, like poses, rotation, and more.
+Sign a book with the name "Statues" to get an interface where you can greatly customize armor stands' attributes, like poses, rotation, and more. The book can also be used to make item frames invisible.
 
 ## Wandering trader mini-blocks
 

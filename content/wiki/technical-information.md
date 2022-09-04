@@ -9,7 +9,7 @@ Server hardware specs and technical information. Please note that the seed was g
 
 # Software
 
-- **Game version** 1.18.1
+- **Game version** 1.19.2
 - **JDK version** Adoptium Java 17
 - **Server software** Fabric
 

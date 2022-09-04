@@ -67,7 +67,7 @@ You can learn more about exactly which features are being used, and find configu
 
 Tweakeroo contains a very large amount of survival utilities, these range from freecam to autoclickers, to the ability to disable entity rendering. It is highly recommended that you use this mod, to make your life easier, and make collaboration with the players that already do use it much better.
 
-_Yes you can use freeccam on this server. See the rules for more information._
+_Yes you can use freecam on this server. See the rules for more information._
 
 [Tweakeroo on CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files)
 
@@ -103,10 +103,9 @@ Some of the most important places to know are:
 
 ## Commerce
 
-If you wish to buy, sell, or trade with other players, then it's important to know about commerce. The server has a dedicated commercial district where players can build shops and sell items. Typically the currency used is diamonds. Any player is free to build a shop, without paying or restrictions.
-
-If you wish to ask for a specific order, or want things for free, you are free to send a message in the `#commerce` channel on Discord.
+Although there is nothing to stop you from trading with players, this server no longer makes use of its commercial district, as players prefer to make their farms public access.
+Nevertheless, any player is welcome to build a shop in the commercial district without fees or restrictions. Diamonds are the conventional currency.
 
 ## Creative server
 
-Finally, if you wish to collaborate on projects in creative, you can join the creative server with WorldEdit and useful commands available. This server also has the latest configs, so anything that works on the creative server will also work in creative.
+Finally, if you wish to collaborate on projects in creative, you can join the creative server which has WorldEdit and other useful commands available. The creative and survival server have the same configuration, so a machine that works on the creative server should also work on the survival server.

@@ -9,9 +9,13 @@ Common questions about the server will be answered here.
 
 # World
 
+#### What minecraft version is the server running?
+
+The server is running 1.19.2 with Fabric and Carpet Mod.
+
 #### Why aren't hostile mobs spawning?
 
-On this server have have built a mobswitch for the overworld and nether, which will prevent hostile mobs from spawning in these areas while they're enabled. You can find the locations for these in the `#points-of-interest` channel in Discord.
+On this server we have built a mobswitch for the overworld and nether, which will prevent hostile mobs from spawning in these areas while they're enabled. You can find the locations for these in the `#points-of-interest` channel in Discord.
 
 #### Where is ...?
 

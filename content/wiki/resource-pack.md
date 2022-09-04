@@ -22,24 +22,24 @@ You can run the listed command while holding the specified item, replacing the I
 | Item              | New Item Name               |       ID |
 | ----------------- | --------------------------- | -------: |
 | Netherite Sword   | Red Sword                   |  `21400` |
-| Netherite Sword   | Amethyest Encrusted Sword   |  `21401` |
-| Netherite Shovel  | Amethyest Encrusted Shovel  |  `59300` |
-| Netherite Hoe     | Amethyest Encrusted Hoe     |  `65400` |
-| Netherite Pickaxe | Amethyest Encrusted Pickaxe |  `88800` |
+| Netherite Sword   | Amethyst Encrusted Sword    |  `21401` |
+| Netherite Shovel  | Amethyst Encrusted Shovel   |  `59300` |
+| Netherite Hoe     | Amethyst Encrusted Hoe      |  `65400` |
+| Netherite Pickaxe | Amethyst Encrusted Pickaxe  |  `88800` |
 | Totem of Undying  | Axolotl of Undying          |  `94560` |
-| Totem of Undying  | Book of Undyinbg            |  `94561` |
+| Totem of Undying  | Book of Undying             |  `94561` |
 | Totem of Undying  | Carbon Totem                |  `94562` |
 | Totem of Undying  | Carbon Totem (Nether)       |  `94563` |
 | Totem of Undying  | Netherite Totem (Diamond)   |  `94564` |
 | Totem of Undying  | Netherite Totem (Gold)      |  `94565` |
 | Totem of Undying  | Fancy Totem of Undying      |  `94566` |
-| Totem of Undying  | Flower of Undyinbg          |  `94567` |
-| Totem of Undying  | Potion of Undyinbg          |  `94568` |
-| Totem of Undying  | Retro Totem of Undyinbg     |  `94569` |
-| Totem of Undying  | Small Totem of Undyinbg     | `945610` |
+| Totem of Undying  | Flower of Undying           |  `94567` |
+| Totem of Undying  | Potion of Undying           |  `94568` |
+| Totem of Undying  | Retro Totem of Undying      |  `94569` |
+| Totem of Undying  | Small Totem of Undying      | `945610` |
 | Totem of Undying  | Totem of Redstone           | `945611` |
-| Totem of Undyinbg | Soul Totem                  | `945612` |
-| Netherite Axe     | Amethyest Encrusted Axe     |  `95500` |
+| Totem of Undying  | Soul Totem                  | `945612` |
+| Netherite Axe     | Amethyst Encrusted Axe      |  `95500` |
 
 # Adding textures
 
